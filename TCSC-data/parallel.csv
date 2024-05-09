@@ -1,0 +1,25 @@
+ecall_test_parallel(ms): 
+input size,enclave transition(ms)
+5,2258
+10,3823
+15,5424
+20,7789
+25,9794
+30,12536
+35,14922
+40,17637
+45,20874
+50,24615
+ecall_test_non_parallel(ms): 
+input size,enclave transition(ms)
+5,6250
+10,12803
+15,19401
+20,26707
+25,33725
+30,41440
+35,48838
+40,56606
+45,64576
+50,72697
+
